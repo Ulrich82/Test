@@ -18,3 +18,6 @@ Question 4
 Que sont le copyright et le copyleft ?
 Le copyright est un droit déposé pour publier et exploiter son oeuvre personnel.                                                                  Le copyleft est le contraire du copyright, il permet de rendre son oeuvre libre a toute personne voulant la modifié ou exploiter.    https://www.linternaute.fr/dictionnaire/fr/definition/copyright/       https://www.gnu.org/licenses/copyleft.fr.html  
 
+Question 5
+Que sont les Creatives Commons?
+Les creatives commons sont des licences "libre" qui sont utilisé pour des logiciels aux droit d'auteur de modifier, de redistribuer et de publier.    Il y a 6 licence qui ont toute un signification différentes.    https://coreight.com/content/guide-licences-creative-commons
