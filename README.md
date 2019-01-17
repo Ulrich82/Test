@@ -7,3 +7,9 @@ Question 2
 Quelle est la différence entre le Web et Internet?
 Internet est le réseau informatique mondial qui est basé sur l'ip ou l'on peut trouver différent services comme le Web.
 Le Web est un système de navigation de pages qui permet de naviguer gràce a des liens du navigateur.  https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/
+
+Question 3
+Qu’est-ce que cela: - 8.8.8.8 - 192.168.0.1 ?
+8.8.8.8 est le DNS de google. Le DNS est un système important au fonctionnement d'internet, il permet d'établir la correspondance entre le nom du domaine est adresse IP.
+192.168.0.1 est une adresse ip de routeur a usage domestique, il permet de modifier les paramètres du routeur. 
+Une adresse ip est un numéro lié a un appareil qui est connecté au réseau. Une adresse ip sert a communiquer sur un réseau comme Internet.   https://adresseip.com/    http://www.192-168-0-1.us/  
